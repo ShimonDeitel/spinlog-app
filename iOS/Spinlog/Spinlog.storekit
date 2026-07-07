@@ -1,0 +1,33 @@
+{
+  "identifier" : "Spinlog",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : { "_storeKitErrors" : [] },
+  "subscriptionGroups" : [
+    {
+      "id" : "spinlog_group",
+      "localizations" : [],
+      "name" : "Spinlog Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "spinlog_pro_monthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            { "description" : "Resistance-trend charts and instructor/class notes", "displayName" : "Spinlog Pro", "locale" : "en_US" }
+          ],
+          "productID" : "com.shimondeitel.spinlog.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Spinlog Pro Monthly",
+          "subscriptionGroupID" : "spinlog_group",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : { "major" : 3, "minor" : 0 }
+}
